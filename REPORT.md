@@ -1,6 +1,6 @@
 # Assignment 3 — Graphs: DSU, MST, SCC and Shortest Paths
 
-Design and Analysis of Algorithms · Student: _name, group_
+Design and Analysis of Algorithms · Дархан Тыныштык, SE-2523
 
 All six algorithms (plus Tarjan and the condensation critical path as bonus tasks) run on one
 `Graph` class and reproduce every number in the reference table exactly. Every counter below
